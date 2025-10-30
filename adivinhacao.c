@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <time.h>
-//o jhow eh gay
 
 
 int main () { 
