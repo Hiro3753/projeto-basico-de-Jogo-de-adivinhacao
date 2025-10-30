@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <time.h>
+//o jhow eh gay
 
-int main () {
+
+int main () { 
     //cabecalho
     printf("**********************************\n");
     printf("*bem vindo ao jogo de adivinhacao*\n");
